@@ -14,7 +14,7 @@
 
   <h3 align="center">Watchface for Amazfit GTR mini</h3>
 
-![image of amazfit watchface]([http://url/to/img.png](https://github.com/PhilippeZuber/watchfaceZeppOS/blob/main/watchface_zepp_os_swiss_rose.png))
+   <img src="[img_girl.jpg](https://github.com/PhilippeZuber/watchfaceZeppOS/blob/main/watchface_zepp_os_swiss_rose.png)" alt="swiss rose amazfit watchface for gtr mini"> 
 
   <p align="center">
     Simple, beautiful watchface
